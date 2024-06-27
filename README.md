@@ -82,7 +82,7 @@ In conclusion, the ShopVista project is an exciting opportunity for you to showc
 ---
 
 ## Project Structure
-
+\```
 ShopVista/
 ├── public/
 │ ├── assets/
@@ -112,7 +112,7 @@ ShopVista/
 ├── .gitignore
 ├── package-lock.json
 ├── package.json
-└── README.md
+└── README.md\```
 
 
 ## Installation
